@@ -10,7 +10,7 @@ and configure their default environment.
 Example of how to customize the Ubuntu 20.04 (Focal Fossa) image:
 ```Dockerfile
 # syntax=docker/dockerfile:1
-FROM ghcr.io/itopia-inc/spaces-base-images/spaces-base-ubuntu:focal
+FROM ghcr.io/itopia-inc/spaces-base-images/spaces-ubuntu-base:focal
 
 # Install your developers' tools
 
